@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=83dea0fd"><img src="assets/hero-light.svg?v=3b090106" alt="Xin chào, mình là PaSonic. Kệ sách các ứng dụng PaNIC" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg?v=99d767fd"><img src="assets/about-light.svg?v=48f4ba02" alt="Thẻ bạn đọc: PaSonic, lập trình viên công cụ nội bộ và dữ liệu, làm các ứng dụng PaNIC" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg?v=f15d6594"><img src="assets/about-light.svg?v=db2b9100" alt="Thẻ bạn đọc: PaSonic, lập trình viên công cụ nội bộ và dữ liệu, làm các ứng dụng PaNIC" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chapter-joy-dark.svg?v=35dcd33c"><img src="assets/chapter-joy-light.svg?v=5f49b548" alt="Chương I: Cho những ngày vui" width="100%"></picture>
 
@@ -24,11 +24,15 @@
   <a href="https://panic-toolkit.streamlit.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-toolkit-dark.svg?v=28db5e16"><img src="assets/card-toolkit-light.svg?v=cb0272f3" alt="Toolkit: bộ khung dựng công cụ nội bộ bằng Streamlit" width="49%"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chapter-parish-dark.svg?v=99c8c798"><img src="assets/chapter-parish-light.svg?v=782a40c1" alt="Chương III: Cho giáo xứ" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/chapter-parish-dark.svg?v=591c3b54"><img src="assets/chapter-parish-light.svg?v=1af29705" alt="Chương III: Cho giáo xứ" width="100%"></picture>
 
 <p align="center">
   <a href="https://github.com/mdev-qn95/PaNIC-Quiz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-quiz-dark.svg?v=f16f3c36"><img src="assets/card-quiz-light.svg?v=28a7efcb" alt="Quiz: thi đố vui cả hội trường, trả lời trên điện thoại" width="49%"></picture></a>
   <a href="https://github.com/mdev-qn95/PaNIC-Magnific"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-magnific-dark.svg?v=dce78371"><img src="assets/card-magnific-light.svg?v=afffe412" alt="Magnific: trình chiếu Thánh lễ thay PowerPoint" width="49%"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://panic-thanhle-hp.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-thanhle-hp-dark.svg?v=52f61188"><img src="assets/card-thanhle-hp-light.svg?v=6b61eda5" alt="PaNIC Thánh Lễ Hôn Phối: tạo thiệp mời và ảnh trình chiếu Thánh Lễ. Miễn phí mãi mãi, không quảng cáo." width="49%"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg?v=20b5e5b0"><img src="assets/toolbox-light.svg?v=18c3acb1" alt="Mình hay làm việc với Python, Streamlit, SQL Server, Azure, TypeScript, Next.js, Supabase, JavaScript, WebGL, Vercel, Playwright, Git" width="100%"></picture>
